@@ -15,7 +15,7 @@ Senior Systems Engineer with strong ownership over end-to-end delivery, from req
 - **Automation & Tooling** – Building internal tools for enterprise banking 
 - **Production Support** – Incident management, optimization, and system reliability
 
-**Current Role:** Senior Systems Engineer at Infosys · Working on Citi Bank automation platforms and dashboards  
+**Current Role:** Senior Systems Engineer at Infosys · Working on automation platforms and dashboards  
 **Location:** Bengaluru, India  
 **Availability:** Open to MEAN/Angular roles (Hybrid/Remote)
 
