@@ -12,7 +12,7 @@ Senior Systems Engineer with strong ownership over end-to-end delivery, from req
 
 - **MEAN Stack Development** – Angular, Node.js, Express, MongoDB
 - **Frontend & UI/UX** – HTML, CSS, JavaScript, Bootstrap, Responsive Design
-- **Automation & Tooling** – Building internal tools for enterprise banking (Citi Bank)
+- **Automation & Tooling** – Building internal tools for enterprise banking 
 - **Production Support** – Incident management, optimization, and system reliability
 
 **Current Role:** Senior Systems Engineer at Infosys · Working on Citi Bank automation platforms and dashboards  
